@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FaceitStats</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Search Profile</string>
+    <string name="menu_gallery">My Profile</string>
+    <string name="menu_slideshow">Top 5 Elo</string>
+    <string name="menu_tools">Top 5 Hs</string>
+    <string name="menu_share">Top 5 K/D</string>
+    <string name="menu_send">Top 5 Win Rate</string>
+    <string name="vote_app">Vote App</string>
+    <string name="share_app">Share App</string>
+    <string name="exit_acc">Exit Account</string>
+</resources>
